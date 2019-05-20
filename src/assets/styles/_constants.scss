@@ -1,0 +1,15 @@
+body, html{
+  font-size:16px;
+  width:100vw;
+  overflow-x:hidden;
+  font-family: $regular-font;
+}
+
+h1{
+  font-size:4rem;
+  line-height: 1;
+  font-family: $bold-font;
+}
+.spacer{
+  height:200vh;
+}
